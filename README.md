@@ -4,7 +4,7 @@
 
 This repository contains a comprehensive solution for managing social network advertisements. Whether you're a marketer, advertiser, or developer, this project is designed to streamline the process of creating, monitoring, and analyzing ads on popular social media platforms.
 
-It he examination and evaluation of advertising campaigns on social media platforms. Here's a brief overview:
+It  involves the examination and evaluation of advertising campaigns on social media platforms. Here's a brief overview:
 
 Objective Identification: Determine the goals of the social media advertising campaign, whether it's brand awareness, lead generation, website traffic, or conversions.
 
